@@ -6,6 +6,7 @@ body {
 
 #myName {
     text-align: center;
+    text-align: end;
     color: #f3c98b;
 }
 
@@ -26,6 +27,7 @@ body {
 
 #foto-igor {
     border-radius: 200px;
+    height: 200px;
 
 
 }
