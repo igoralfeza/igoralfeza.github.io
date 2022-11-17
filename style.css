@@ -1,5 +1,48 @@
 body {
+    background-color: #C46D5E;
+    color: #ffffff;
+    font-family:'Quicksand', sans-serif;
+}
+
+#myName {
+    text-align: center;
+    color: #f3c98b;
+}
+
+#myName2 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+#descrição {
+    background-color: #ffffff;
+    color: #000000;
 
 
-    
+
+
+
+}
+
+#foto-igor {
+    border-radius: 200px;
+
+
+}
+  
+
+
+h2 {
+    color: #f3c98b
+    -webkit-stroke-color: #ffffff;
+    -webkit-stroke-width: 1px;
+
+}
+
+
+
+a:visited{
+
+ color: #ffffff
+
 }
