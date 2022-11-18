@@ -4,28 +4,38 @@ body {
     font-family:'Quicksand', sans-serif;
 }
 
+h2 {
+    color: #f3c98b
+    -webkit-stroke-color: #ffffff;
+    -webkit-stroke-width: 1px;
+
+}
+
 #myName {
-    text-align: center;
-   font-size: 51 px;
+    font-size: 51 px;
     color: #f3c98b;
-    padding: 0px 0px 0px 50px;
+    margin: 10px;
+    text-align: center;
+    top: 50px;
+
 }
 
 #myName2 {
-    color: rgb(0, 0, 0);
-    text-align: center;
-    font-size: 10px;
+    color: #f3c98b;
+    font-size: 20px;
     padding: none;
+    position: absolute;
+    top: 300px;
+    left: 310px
 }
 
 #descrição {
     background-color: #ffffff;
     color: #000000;
-
-
-
-
-
+    position: absolute;
+    left: 550px;
+    top: 200px;
+;
 }
 
 #foto-igor {
@@ -33,15 +43,20 @@ body {
     height: 200px;
     border-style:solid;
     border-color: #f3c98b;
-    
-
+    align-content:  center;
+    position: absolute;
+    top: 100px;
+    left: 250px;
+    margin: 10px;
 }
   
 
-h2 {
-    color: #f3c98b
-    -webkit-stroke-color: #ffffff;
-    -webkit-stroke-width: 1px;
+
+#titleDescrição {
+    position: absolute;
+    left: 545px;
+    top: 150px;
+    padding: 5px;
 
 }
 
